@@ -61,7 +61,9 @@ Before you begin, ensure you have the following prerequisites:
    cd solution-electric-bicycle-instrumentation
    ```
 
-2. **Flash the Firmware**： Follow the [instructions](https://python.quectel.com/doc/Application_guide/en/dev-tools/QPYcom/qpycom-dw.html#Download-Firmware)将固件烧录到开发板上。**Note When downloading the firmware, you need to select the EXTFS8M model **
+2. **Flash the Firmware**： 
+	Follow the [instructions](https://python.quectel.com/doc/Application_guide/en/dev-tools/QPYcom/qpycom-dw.html#Download-Firmware) 
+	Burn the firmware to the development board。**Note When downloading the firmware, you need to select the EXTFS8M model**
 
 ### Running the Application
 
