@@ -41,7 +41,7 @@ Page UI includes startup LOGO display, real-time navigation information display,
 Before you begin, ensure you have the following prerequisites:
 
 - **Hardware**:
-  - A QuecPython [QuecPython U235 EVB](https://python.quectel.com/doc/Getting_started/en/evb/ec600u-235.html)
+  - A QuecPython [QuecPython U-235 EVB](https://python.quectel.com/doc/Getting_started/en/evb/ec600u-235.html)
   - USB Data Cable (USB-A to USB-C)
   - PC (Windows 7, Windows 10, or Windows 11)
 
@@ -62,8 +62,7 @@ Before you begin, ensure you have the following prerequisites:
    ```
 
 2. **Flash the Firmware**： 
-	Follow the [instructions](https://python.quectel.com/doc/Application_guide/en/dev-tools/QPYcom/qpycom-dw.html#Download-Firmware) 
-	Burn the firmware to the development board。**Note When downloading the firmware, you need to select the EXTFS8M model**
+	Follow the [instructions](https://python.quectel.com/doc/Application_guide/en/dev-tools/QPYcom/qpycom-dw.html#Download-Firmware) to flash the firmware to the development board。**Note when downloading the firmware, you need to select the EXTFS8M model**
 
 ### Running the Application
 
@@ -100,7 +99,7 @@ solution-electric-bicycle-instrumentation/
 │   ├── classsicbt.py       # Bluetooth related code
 │   ├── const.py            # Code run related configuration parameters
 │   ├── controller.py       # Vehicle-machine communication controller code
-│   ├── gps.py           	# GPS navigation code
+│   ├── gps.py           	  # GPS navigation code
 │   ├── main.py            	# Application entry script
 │   ├── mcudata.py          # Sensor data acquisition code
 │   ├── network.py          # Network related code

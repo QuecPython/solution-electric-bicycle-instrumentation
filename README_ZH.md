@@ -1,5 +1,5 @@
 # QuecPython两轮车大屏仪表解决方案
-中文 | [English](README.md)
+中文 | [English](README.MD)
 
 ## 目录
 
@@ -39,7 +39,7 @@ QuecPython推出的两轮车大屏仪表解决方案主要针对两轮电单车�
 在开始之前，请确保您具备以下先决条件
 
 - 硬件
-  - 一块[QuecPython U235开发板](https://python.quectel.com/doc/Getting_started/zh/evb/ec600u-235.html)
+  - 一块[QuecPython U-235开发板](https://python.quectel.com/doc/Getting_started/zh/evb/ec600u-235.html)
   - USB 数据线（USB-A 转 USB-C）
   - 电脑（Windows 7、Windows 10 或 Windows 11）
 - 软件
@@ -94,13 +94,13 @@ solution-electric-bicycle-instrumentation/
 │   ├── classsicbt.py       # 蓝牙相关代码
 │   ├── const.py            # 代码运行相关配置参数
 │   ├── controller.py       # 车机通信相关控制器代码
-│   ├── gps.py           	# GPS导航相关代码
-│   ├── main.py            	# 程序入口文件
+│   ├── gps.py           	 # GPS导航相关代码
+│   ├── main.py             # 程序入口文件
 │   ├── mcudata.py          # 传感器数据采集相关代码
 │   ├── network.py          # 网络相关代码
 │   ├── serial.py           # 串口通信相关代码
 │   ├── setting.py          # 配置文件读取保存相关代码
-│   ├── ui2.py            	# ui相关代码
+│   ├── ui2.py            	 # ui相关代码
 │   ├── uidemo.py           # ui演示相关代码(只运行ui部分，用于效果展示)
 ```
 
