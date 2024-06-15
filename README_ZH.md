@@ -57,7 +57,7 @@ QuecPython推出的两轮车大屏仪表解决方案主要针对两轮电单车�
    cd solution-electric-bicycle-instrumentation
    ```
 
-2. **烧录固件**： 按照[说明](https://python.quectel.com/doc/Application_guide/dev-tools/QPYcom/qpycom-dw.html#Download-Firmware)将固件烧录到开发板上。**注意在下载固件的时候需要选择EXTFS8M型号**
+2. **烧录固件**： 按照[说明](https://python.quectel.com/doc/Application_guide/zh/dev-tools/QPYcom/qpycom-dw.html#Download-Firmware)将固件烧录到开发板上。**注意在下载固件的时候需要选择EXTFS8M型号**
 
 ### 运行应用程序
 
